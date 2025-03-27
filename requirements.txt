@@ -1,0 +1,8 @@
+streamlit
+selenium
+langchain
+langchain-community
+google-generativeai
+faiss-cpu
+huggingface-hub
+chromedriver-autoinstaller
