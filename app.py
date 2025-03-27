@@ -128,7 +128,7 @@ def scrape_and_store():
 vectorstore = scrape_and_store()
 
 # 🔑 Google Gemini API
-genai.configure(api_key="AIzaSyCg5KeY2PlaeNHdSpCCBcX6wUgd13vKmW8")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 
 def generate_response(query):
     """Retrieves relevant data and generates a detailed response using Gemini AI."""
