@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ Set Up Google Gemini API Key
-### Step 3: Configure API Key for Google Gemini AI
+### Configure API Key for Google Gemini AI
 You need a **Google Gemini API key** for AI feedback generation. Replace the placeholder API key in the code with your actual key.
 ```python
 import google.generativeai as genai
