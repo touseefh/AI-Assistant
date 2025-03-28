@@ -20,7 +20,7 @@ Ahdus Technology AI Assistant is a **Streamlit-based chatbot** that provides str
 ## Installation Guide
 ### 1️⃣ Prerequisites
 Ensure you have the following installed:
-- **Python 3.8+**
+- **Python 3.10+**
 - **Google Chrome & ChromeDriver**
 
 ### 2️⃣ Clone the Repository
